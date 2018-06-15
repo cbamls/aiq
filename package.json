@@ -1,0 +1,36 @@
+{
+  "name": "Symphony",
+  "version": "2.3.0",
+  "description": "A modern community (forum/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台。 https://sym.b3log.org",
+  "homepage": "https://github.com/b3log/symphony",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b3log/symphony.git"
+  },
+  "bugs": {
+    "url": "https://github.com/b3log/symphony/issues"
+  },
+  "license": "GPLv3",
+  "private": true,
+  "author": "Daniel <d@b3log.org> (http://88250.b3log.org) & Vanessa <v@b3log.org> (http://vanessa.b3log.org)",
+  "maintainers": [
+    {
+      "name": "Daniel",
+      "email": "d@b3log.org"
+    },
+    {
+      "name": "Vanessa",
+      "email": "v@b3log.org"
+    }
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "marked": "^0.3.9"
+  }
+}
