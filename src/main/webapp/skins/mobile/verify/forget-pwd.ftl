@@ -32,7 +32,10 @@
             <div class="wrapper verify">
                 <div class="verify-wrap">
                     <div class="form">
-                        <svg><use xlink:href="#logo"></use></svg>
+                        <div style="text-align:center;">
+                            <img src="http://www.6aiq.com/images/mainlogo2.png" />
+
+                        </div>
                         <div class="input-wrap">
                             <svg><use xlink:href="#email"></use></svg>
                             <input id="fpwdEmail" type="text" placeholder="${emailLabel}" autocomplete="off" autofocus="autofocus" />

@@ -4,7 +4,7 @@
             ${indexIntroLabel} &nbsp; &nbsp;
            <!-- <a href="https://github.com/b3log/symphony" target="_blank" class="tooltipped tooltipped-n" aria-label="${siteCodeLabel}">
                 <svg class="icon-github"><use xlink:href="#github"></use></svg></a> &nbsp;-->
-            <a href="http://weibo.com/u/test" target="_blank" class="tooltipped tooltipped-n" aria-label="${followWeiboLabel}">
+            <a href="https://zhuanlan.zhihu.com/52aiq" target="_blank" class="tooltipped tooltipped-n" aria-label="${followWeiboLabel}">
                 <svg class="icon-weibo"><use xlink:href="#weibo"></use></svg></a>   &nbsp;
             <a target="_blank" class="tooltipped tooltipped-n" aria-label="${joinQQGroupLabel}"
                href="http://shang.qq.com/wpa/qunwpa?idkey=21ad85a619e0413feb11964f5fa18c042c9c1ba14c3ee2dd22aefa0a2fb172f9">

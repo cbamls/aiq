@@ -7,6 +7,7 @@
             <meta name="keywords" content="${keywords}"/>
             <meta name="description" content="${symDescriptionLabel}"/>
             <meta name="baidu-site-verification" content="LkNBV6amx7" />
+            <meta name="360-site-verification" content="20cd0755bcb23372830b57b6e7ca66e8" />
             <style>
                 .nav {
                     height: 48px;

@@ -1,7 +1,7 @@
 <#--
 
     Symphony - A modern community (forum/BBS/SNS/blog) platform written in Java.
-    Copyright (C) 2012-2018, b3log.org & hacpai.com
+    Copyright (C) 2012-2018, b3log.org & www.6aiq.com
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
@@ -109,7 +109,6 @@
                         </div>
                         <div class="fn-none ft-center">
                             <br/>
-                            <a href="https://github.com/b3log/symphony" target="_blank"><img src="${staticServePath}/images/sym-logo300.png" width="180px"></a> <br/> <br/><br/>
                             <iframe src="https://ghbtns.com/github-btn.html?user=b3log&repo=symphony&type=star&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
                         </div>
                         <div class="fn-none list">
@@ -123,11 +122,11 @@
                                     <span class="ft-gray">${basicTipLabel}</span>
                                 </li>
                                 <li>
-                                    <a href="https://hacpai.com/article/1474030007391">${hotKeyLabel}</a>
+                                    <a href="https://www.6aiq.com/article/1474030007391">${hotKeyLabel}</a>
                                     <span class="ft-gray">${hotKeyTipLabel}</span>
                                 </li>
                                 <li>
-                                    <a href="https://hacpai.com/guide/markdown">Markdown ${tutorialLabel}</a>
+                                    <a href="https://www.6aiq.com/guide/markdown">Markdown ${tutorialLabel}</a>
                                     <span class="ft-gray">${markdownTutorialTipLabel}</span>
                                 </li>
                                 <li>

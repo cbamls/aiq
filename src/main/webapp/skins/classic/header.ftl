@@ -2,8 +2,8 @@
     <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
         <a href="${servePath}">
           <!--  <svg><use xlink:href="#logo"></use></svg>-->
-            <img style="height: 40px" src="${servePath}/images/airplane.png" alt="机器学习社区"/>
-            <img src="${servePath}/images/logo.png" alt="机器学习社区"/>
+            <img style="height: 40px;margin-top:4px"  src="${servePath}/images/logo.png" alt="机器学习社区"/>
+            <img style="margin-top:4px"  src="${servePath}/images/aiq.png" alt="机器学习社区"/>
 
         </a>
     </h1>

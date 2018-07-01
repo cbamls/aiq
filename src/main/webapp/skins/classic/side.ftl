@@ -115,20 +115,21 @@
         <ul class="module-list open-source">
             <li>
                 <a target="_blank" rel="noopener" href="http://muyinchen.github.io/"><b class="ft-red slogan">【知秋】</b></a>
-                <a class="title" target="_blank" rel="noopener" href="https://github.com/b3log/solo">spring 大佬</a>
+                <a class="title" target="_blank" rel="noopener" href="http://muyinchen.github.io/">国内Java响应式编程大佬</a>
             </li>
             <li class="last">
-                <a target="_blank" rel="noopener" href="https://blog.csdn.net/carson2005"> <b class="ft-green slogan">仙道菜</b></a>
-                <a class="title" target="_blank" rel="noopener" href="http://blog.csdn.net/cyh24/article/category/2767185">仙道菜</a>
-            </li>
-            <li class="last">
-                <a target="_blank" rel="noopener" href="http://blog.csdn.net/abcjennifer "> <b class="ft-gray slogan">【张睿卿】</b></a>
-                <a class="title" target="_blank" rel="noopener" href="http://blog.csdn.net/abcjennifer">张睿卿</a>
+                <a target="_blank" rel="noopener" href="http://jm.taobao.org/"> <b class="ft-green slogan">【阿里中间件】</b></a>
+                <a class="title" target="_blank" rel="noopener" href="http://jm.taobao.org/">阿里中间件技术团队</a>
             </li>
             <li>
-                <a target="_blank" rel="noopener" href="http://dahua.spaces.live.com/blog/"><b class="ft-blue slogan">【傲立寰宇】</b></a>
-                <a class="title" target="_blank" rel="noopener" href="http://dahua.spaces.live.com/blog/">傲立寰宇 </a>
+                <a target="_blank" rel="noopener" href="https://tech.meituan.com"><b class="ft-blue slogan">【美团】</b></a>
+                <a class="title" target="_blank" rel="noopener" href="https://tech.meituan.com">美团点评技术博客 </a>
             </li>
+            <li class="last">
+                <a target="_blank" rel="noopener" href="https://techblog.toutiao.com/ "> <b class="ft-gray slogan">【今日头条】</b></a>
+                <a class="title" target="_blank" rel="noopener" href="https://techblog.toutiao.com/">今日头条技术博客</a>
+            </li>
+
         </ul>
     </div>
 </div>

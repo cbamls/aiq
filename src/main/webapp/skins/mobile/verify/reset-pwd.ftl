@@ -31,8 +31,10 @@
             <div class="wrapper verify">
                 <div class="verify-wrap">
                     <div class="form">
-                        <svg><use xlink:href="#logo"></use></svg>
+                        <div style="text-align:center;">
+                            <img style="width:30%; margin-top:20px" src="http://www.6aiq.com/images/logo.png" />
 
+                        </div>
                         <div class="input-wrap">
                             <svg><use xlink:href="#userrole"></use></svg>
                             <input type="text" id="rpwdrUserName" value="${user.userName}" readonly="readonly" placeholder="${userNameLabel}" autocomplete="off" />

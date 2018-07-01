@@ -579,7 +579,7 @@ public class UserMgmtService {
                 }
 
                 final JSONObject memberCntOption = optionRepository.get(Option.ID_C_STATISTIC_MEMBER_COUNT);
-                final int memberCount = memberCntOption.optInt(Option.OPTION_VALUE) + 9999; // Updates stat. (member count +1)
+                final int memberCount = memberCntOption.optInt(Option.OPTION_VALUE) + 10000; // Updates stat. (member count +1)
 
                 user.put(UserExt.USER_NO, memberCount);
 

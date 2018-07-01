@@ -97,7 +97,7 @@
                                                                             <tbody><tr style="border-collapse:collapse">
                                                                                     <td style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:20px;padding:0 0 15px">
                                                                                         我们正在构建一个活跃的先进的国内机器学习中文社区。大家在这里相互 信任 ，以 平等 • 自由 • 奔放 的价值观进行分享交流。
-                                                                                        这里有汇聚国内顶尖的机器学习，深度学习，区块链，神经网络，大数据，数据挖掘等火热领域等专家及各种优秀的学习资源。
+                                                                                        这里有汇聚国内顶尖的机器学习，人工智能，深度学习，区块链，神经网络，大数据，数据挖掘等火热领域等专家及各种优秀的学习资源。
                                                                                         致力于打造国内最顶尖的技术交流社区
                                                                                         <ul>
                                                                                             <li>分享自己机器学习知识的同时请对他人保持友善</li>

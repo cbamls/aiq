@@ -122,13 +122,24 @@
                     <div id="articleAudio" data-url="${article.articleAudioURL}"
                          data-author="${article.articleAuthorName}" class="aplayer"></div>
                 </#if>
-                <br><br><br>
-                <p>
-                    转载请注明 <a href="http://www.6aiq.com">AIQ - 最专业的机器学习大数据社区</a>&nbsp; http://www.6aiq.com
-                </p>
-                <#if 3 != article.articleType>
+                <br>
+                <#if 0 == article.articleType>
+                    <br><br>
+                    <p>
+                        转载请注明 <a href="http://www.6aiq.com">AIQ - 最专业的机器学习大数据社区</a>&nbsp; http://www.6aiq.com
+                    </p>
+                    <p>AIQ 机器学习大数据  <a href="https://zhuanlan.zhihu.com/52aiq"> 知乎专栏 点击关注 </a> </p>
+
+                </#if>
+
+            <#if 3 != article.articleType>
                     <div class="content-reset article-content">
+
                         ${article.articleContent}
+                            <br>
+                        <blockquote>
+                            <p>更多高质资源 尽在AIQ 机器学习大数据  <a href="https://zhuanlan.zhihu.com/52aiq"> 知乎专栏 点击关注 </a> </p>
+                        </blockquote>
                     </div>
                     <#else>
                         <div id="thoughtProgress"><span class="bar"></span><svg class="icon-video"><use xlink:href="#video"></use></svg><div data-text="" class="content-reset" id="thoughtProgressPreview"></div></div>
@@ -366,8 +377,8 @@
             <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
                 <a href="${servePath}">
                     <!--<svg><use xlink:href="#logo"></use></svg>-->
-                    <img style="height: 40px" src="${servePath}/images/plane.png" alt="机器学习社区"/>
-                    <img src="http://www.6aiq.com/images/mainlogo2.png" alt="机器学习社区"/>
+                    <img style="height: 40px" src="${servePath}/images/logo.png" alt="机器学习社区"/>
+                    <img  src="${servePath}/images/aiq2.png" alt="机器学习社区"/>
 
                 </a>
             </h1>

@@ -4,9 +4,9 @@
             <h1>
                 <a href="${servePath}" aria-label="${symphonyLabel}">
                    <#-- <svg><use xlink:href="#logo"></use></svg>-->
-                       <img style="height: 30px;float: left" src="${servePath}/images/plane.png" alt="机器学习社区"/>
+                       <img style="height: 30px;float: left" src="${servePath}/images/logo.png" alt="机器学习社区"/>
 
-                       <img style="max-width: 70%; float: left" src="${servePath}/images/logo.png" alt="机器学习社区"/>
+                       <img style="max-width: 70%; float: left" src="${servePath}/images/aiq.png" alt="机器学习社区"/>
 
                 </a>
             </h1>

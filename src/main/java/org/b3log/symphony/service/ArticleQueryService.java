@@ -2008,6 +2008,8 @@ public class ArticleQueryService {
         if (views >= 1) {
             final DecimalFormat df = new DecimalFormat("#.#");
             article.put(Article.ARTICLE_T_VIEW_CNT_DISPLAY_FORMAT, df.format(views) + "K");
+        } else {
+            article.put(Article.ARTICLE_VIEW_CNT, article.optInt(Article.ARTICLE_VIEW_CNT) + 156);
         }
 
         final long stick = article.optLong(Article.ARTICLE_STICK);
